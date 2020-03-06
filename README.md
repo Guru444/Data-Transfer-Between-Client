@@ -12,4 +12,5 @@ Diğer client olan Mobil uygulamayı indirmeniz gerekmektedir. Android Telefonun
 
 Mobil uygulamayı açtıktan sonra bazı ayarlamalar yapmamız gerekmektedir.
 
+<img src="image/addBroker.jpeg" width="100" >
 
